@@ -1,2 +1,6 @@
 "krupa is a intelligent girl" 
+<<<<<<< HEAD
 master
+=======
+vivo
+>>>>>>> vivo
