@@ -1,1 +1,2 @@
 "krupa is a intelligent girl" 
+master
